@@ -61,7 +61,7 @@ XX-[CÓDIGO DE BUSCA] + 7 dígitos.pdf
 
 Os dois primeiros digitos correspondem a numeração da quantidade de arquivos daquele parecer (00, 01,...), o código de busca é construído como explicado anteriormente e os 7 digitos estão ligados ao parecer e a edição.
 
-No caso do código desenvolvido, optou-se por mudar o nome do arquivo no momento do download, adotando o seguinte formato para o nome dos arquivos:
+No caso do código desenvolvido, optou-se por mudar o nome do arquivo no momento do download, com o seguinte formato para o nome dos arquivos:
 
 [NÚMERO DA PROTEÇÃO]\_Despacho [X.XX]_[DATA DA RPI]_[CONTADOR ALFABÉTICO].pdf
 
