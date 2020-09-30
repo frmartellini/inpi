@@ -1,4 +1,4 @@
-# Campos que precisam ser enviados no payload de acordo com o código de serviço
+# Campos que precisam ser enviados no payload de acordo com o código de serviço, para a geração de GRUs
 
 | Tipo de Serviço                                | Codigo | Descrição                                                                                                                                                                                                                               | login | senha | cpfCnpjInpiCliente | numeroProcesso | guiaAnterior | valor | total | revista | objetoPeticao | peticaoVinculada                        | tipoPeticionamento | natureza | apresentacao |
 |------------------------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|--------------------|----------------|--------------|-------|-------|---------|---------------|-----------------------------------------|--------------------|----------|--------------|
